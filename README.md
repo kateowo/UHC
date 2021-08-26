@@ -1,6 +1,6 @@
 # UHC Datapack for Minecraft 1.17
 
-A simple, lightweight and easy-to-use UHC datapack designed for 1.17. Featuring popular UHC standard additions like Cut Clean and Speed UHC, this is the easiest and simplest way to hold a UHC in the latest version on platforms like Minecraft Realms.
+Play with you and your friends in the popular UHC minigame, featuring all the standards throughout the years. Get time to prepare in solos (or teams) before the grace period ends and your launched into battle. Who will come out victorious?
 
 **Video showcasing the pack in action:**
 
